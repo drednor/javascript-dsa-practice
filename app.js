@@ -32,29 +32,33 @@ const - will be the same through out the program. will not change
 
 */
 
-const x = 2
-const y = "1312"
-console.log(x + Number(y))
+// const x = 2
+// const y = "1312"
+// console.log(x + Number(y))
 
-const a = Number(prompt("enter the number 1 :"))
-const b = Number(prompt("enter the number 2 :"))
+// const a = Number(prompt("enter the number 1 :"))
+// const b = Number(prompt("enter the number 2 :"))
 
-value = a + b
+// value = a + b
 
-switch (value){
-    case 1:
-        console.log("this is one")
-        break
-    case 2:
-        console.log("this is two")
-        break
-    case 3:
-        console.log("this is three")
-        break
-    case 4:
-        console.log("how did this happen") 
-        break
-    default:
-        console.log("always true")
-        break;   
-    }
+// switch (value){
+//     case 1:
+//         console.log("this is one")
+//         break
+//     case 2:
+//         console.log("this is two")
+//         break
+//     case 3:
+//         console.log("this is three")
+//         break
+//     case 4:
+//         console.log("how did this happen") 
+//         break
+//     default:
+//         console.log("always true")
+//         break;   
+//     }
+
+
+const arr = [1,2,3,4,5]
+console.log(arr)
